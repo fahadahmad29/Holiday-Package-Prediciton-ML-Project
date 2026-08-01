@@ -72,4 +72,4 @@ Instead of contacting customers at random (18% hit rate), the company can now **
 
 ## 👤 Author
 
-**Fahad Khan**
+**Fahad Ahmad Khan**
